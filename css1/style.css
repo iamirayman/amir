@@ -101,7 +101,7 @@ section {
 }
 .main-button:hover {
     background-color: #1b1b1b;
-    transform: scale(1.1);
+   /* transform: scale(1.1); */
 }
 .social-icons a {
     color: #333333;
